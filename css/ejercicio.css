@@ -1,0 +1,23 @@
+body{
+   background-color: azure;
+}
+
+card mb-3{
+    background-color: cadetblue;
+}
+card {
+    background-color: cadetblue;
+}
+card card-3{
+    background-color: cadetblue;
+}
+
+card card-4 {
+    background-color: cadetblue;
+}
+h1{
+    color:cornflowerblue;
+    font-size: 40px;
+    font-family: monospace;
+    text-align: center;
+}
